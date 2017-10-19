@@ -6,4 +6,4 @@ Web app to search and watch youtube videos , built using react and youtube api
 * Kickstart the server and create the `bundle.js` by running `npm start`
 * Navigate to `localhost:8080`(default)  
   
-![Screenshot](https://image.ibb.co/hNCvvm/Capture.jpg "Start typing on the search bar for results")  
+![Screenshot](https://image.ibb.co/hNCvvm/Capture.jpg "Screenshot of the working application")  
